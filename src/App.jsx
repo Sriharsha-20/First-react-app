@@ -1,8 +1,11 @@
-
-import MainPage from "./MainPage";
-
+import Counter from "./counter";
 function App() {
-  return <MainPage />;
+  return (
+    <div>
+      <h2>Counter App</h2>
+      <Counter />
+    </div>
+  );
 }
 
 export default App;
