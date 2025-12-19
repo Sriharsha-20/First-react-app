@@ -1,16 +1,9 @@
-import UserProfile from "./UserProfile";
+import UserData from "./UserData";
 
 function App() {
   return (
-    <div
-      style={{
-        height: "100vh",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
-      <UserProfile />
+    <div>
+      <UserData />
     </div>
   );
 }
