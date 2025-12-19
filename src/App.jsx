@@ -1,10 +1,10 @@
 import React from "react";
-import StatusToggle from "./StatusToggle";
+import ColorToggle from "./ColorToggle";
 
 function App() {
   return (
     <div>
-      <StatusToggle />
+      <ColorToggle />
     </div>
   );
 }
