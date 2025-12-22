@@ -1,10 +1,10 @@
 import React from "react";
-import ColorToggle from "./ColorToggle";
+import VideoPlayer from "./VideoPlayer";
 
 function App() {
   return (
     <div>
-      <ColorToggle />
+      <VideoPlayer />
     </div>
   );
 }
