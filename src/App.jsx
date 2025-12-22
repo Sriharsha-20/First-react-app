@@ -1,12 +1,8 @@
 import React from "react";
-import VideoPlayer from "./VideoPlayer";
+import Component1 from "./components/Component1";
 
 function App() {
-  return (
-    <div>
-      <VideoPlayer />
-    </div>
-  );
+  return <Component1 />;
 }
 
 export default App;
