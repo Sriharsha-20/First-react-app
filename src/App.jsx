@@ -1,8 +1,8 @@
 import React from "react";
-import Component1 from "./ContextComponent/Component1";
+import Todos from "./TODO-Components/Todos";
 
 function App() {
-  return <Component1 />;
+  return <Todos />;
 }
 
 export default App;
