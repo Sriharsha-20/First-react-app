@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import AboutUs from "./pages/AboutUs";
 import Todos from "./pages/Todos";
 import NotFound from "./pages/NotFound";
+import "./RoutingApp.css";
 
 function App() {
   return (
